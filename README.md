@@ -7,8 +7,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0001-two-sum) |
+| [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
