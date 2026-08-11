@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0046-permutations) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
