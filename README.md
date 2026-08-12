@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0046-permutations) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Hash Table
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0046-permutations) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
