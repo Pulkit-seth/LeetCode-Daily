@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
