@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
