@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
