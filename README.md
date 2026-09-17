@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -150,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
