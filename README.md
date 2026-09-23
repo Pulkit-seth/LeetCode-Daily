@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
+| [0788-rotated-digits](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0070-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Minimax
 |  |
