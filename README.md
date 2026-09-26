@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
