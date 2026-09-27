@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0232-implement-queue-using-stacks) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
