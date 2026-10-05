@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
 | [0788-rotated-digits](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1688-count-of-matches-in-tournament) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1688-count-of-matches-in-tournament) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
