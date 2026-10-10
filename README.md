@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0200-number-of-islands) |
