@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
