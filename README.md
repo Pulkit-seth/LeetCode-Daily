@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Minimax
