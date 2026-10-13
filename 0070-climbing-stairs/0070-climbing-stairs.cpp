@@ -1,15 +1,12 @@
 class Solution {
 public:
-    int steps(int idx, vector<int>& dp){
-        if(idx == 0 || idx == 1) return 1;
-        if(dp[idx] != -1) return dp[idx];
-        int l = steps(idx-1,  dp);
-        int r = steps(idx-2, dp);
-        return dp[idx] = l+r;
-    }
     int climbStairs(int n) {
-        vector<int> dp(n+1, -1);
-        int ans = steps(n, dp);
-        return ans;
-    }
+        if(n==0 || n == 1) return 1;
+        int dp[n+1];
+        dp[0] = 1;
+        dp[1] = 1;
+        for(int i = 2; i<=n; i++){
+            dp[i] = dp[i-1] + dp[i-2];
+        }
+   return dp[n]; }
 };
