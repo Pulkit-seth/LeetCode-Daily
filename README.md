@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0788-rotated-digits) |
+| [0799-champagne-tower](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 ## Minimax
 |  |
