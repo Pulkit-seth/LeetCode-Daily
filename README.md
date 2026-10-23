@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0136-single-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
