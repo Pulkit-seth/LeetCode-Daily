@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1688-count-of-matches-in-tournament) |
+| [2409-count-days-spent-together](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
