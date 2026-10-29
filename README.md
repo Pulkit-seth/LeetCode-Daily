@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0162-find-peak-element) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
