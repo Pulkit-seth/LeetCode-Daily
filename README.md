@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0509-fibonacci-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0162-find-peak-element) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
