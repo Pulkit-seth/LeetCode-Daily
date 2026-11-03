@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
