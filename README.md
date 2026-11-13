@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0788-rotated-digits) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0232-implement-queue-using-stacks) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0733-flood-fill) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
