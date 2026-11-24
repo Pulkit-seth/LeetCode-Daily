@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/1688-count-of-matches-in-tournament) |
 | [2409-count-days-spent-together](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -344,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit-seth/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
